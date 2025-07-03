@@ -1,0 +1,4 @@
+openai
+chromadb
+pandas
+python-dotenv

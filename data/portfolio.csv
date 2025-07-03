@@ -1,0 +1,51 @@
+Ticker,Asset Class,Sector,Value (USD),Return (%),Volatility (%)
+AMZN,Equity,Retail,43306,2.97,38.74
+TSLA,Equity,Auto,36184,10.19,6.56
+GLD,Commodity,Gold,39503,14.49,39.2
+XOM,Equity,Energy,30067,0.83,26.34
+GOOG,Equity,Tech,39526,-3.07,16.69
+TSLA,Equity,Auto,38071,0.93,35.05
+TSLA,Equity,Auto,6977,4.87,11.35
+AAPL,Equity,Tech,33149,-3.47,39.47
+XOM,Equity,Energy,32123,5.49,34.77
+MSFT,Equity,Tech,18764,5.68,31.26
+JPM,Equity,Banking,48793,-3.63,24.06
+JPM,Equity,Banking,13638,2.21,34.27
+AMZN,Equity,Retail,11042,0.63,15.06
+JPM,Equity,Banking,24469,14.74,16.74
+META,Equity,Tech,43353,13.81,25.1
+BND,Bond ETF,Govt Bonds,33492,-1.18,34.0
+GOOG,Equity,Tech,29253,-2.04,20.6
+AAPL,Equity,Tech,36647,0.2,33.97
+MSFT,Equity,Tech,36489,10.74,30.38
+META,Equity,Tech,9834,7.74,23.57
+MSFT,Equity,Tech,34410,11.87,39.03
+GOOG,Equity,Tech,13555,0.36,12.76
+GLD,Commodity,Gold,16774,-3.03,37.13
+BND,Bond ETF,Govt Bonds,24423,0.63,36.4
+JPM,Equity,Banking,22118,11.9,17.68
+GOOG,Equity,Tech,5684,5.26,38.14
+JPM,Equity,Banking,14384,2.07,7.84
+XOM,Equity,Energy,45010,9.1,27.4
+AMZN,Equity,Retail,22643,-2.94,36.66
+BND,Bond ETF,Govt Bonds,30034,6.17,6.58
+BND,Bond ETF,Govt Bonds,39647,1.01,15.7
+XOM,Equity,Energy,8564,4.31,23.41
+GOOG,Equity,Tech,13018,1.9,36.54
+GOOG,Equity,Tech,24982,11.31,25.42
+GLD,Commodity,Gold,26810,-1.36,34.87
+MSFT,Equity,Tech,34343,-1.81,34.27
+XOM,Equity,Energy,18420,8.4,18.76
+GOOG,Equity,Tech,35818,-3.1,26.82
+TSLA,Equity,Auto,29937,-2.77,7.22
+TSLA,Equity,Auto,33616,1.89,13.75
+AMZN,Equity,Retail,42578,2.94,16.87
+AAPL,Equity,Tech,49167,9.04,21.07
+BND,Bond ETF,Govt Bonds,12564,11.4,24.43
+JPM,Equity,Banking,9044,0.91,9.16
+GLD,Commodity,Gold,6709,6.8,20.1
+TSLA,Equity,Auto,29488,3.8,29.58
+META,Equity,Tech,32543,-2.11,29.01
+XOM,Equity,Energy,29848,6.24,6.3
+MSFT,Equity,Tech,16596,0.24,9.52
+XOM,Equity,Energy,14394,11.68,34.33
